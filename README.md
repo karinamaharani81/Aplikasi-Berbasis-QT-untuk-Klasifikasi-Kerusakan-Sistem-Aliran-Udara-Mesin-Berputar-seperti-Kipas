@@ -1,0 +1,2 @@
+# Aplikasi-Berbasis-QT-untuk-Klasifikasi-Kerusakan-Sistem-Aliran-Udara-Mesin-Berputar-seperti-Kipas
+Aplikasi GUI Python berbasis PySide6 untuk merekam, memvisualisasikan, dan menganalisis sinyal audio secara real-time. Aplikasi mendukung perekaman audio hingga 40.000 Hz selama 15 detik, visualisasi FFT, dan penyimpanan dalam format WAV. Terintegrasi dengan Edge Impulse, memungkinkan unggah audio untuk pelatihan ML dan inferensi langsung.
