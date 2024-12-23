@@ -1,4 +1,4 @@
-(Aplikasi Qt yang belum diupload)
+![Picture1](https://github.com/user-attachments/assets/cba1ddc8-e58b-4794-8de6-9d9e22178f00)
 
 # Aplikasi Berbasis QT untuk Klasifikasi Kerusakan Sistem Aliran Udara Mesin Berputar seperti Kipas
 
