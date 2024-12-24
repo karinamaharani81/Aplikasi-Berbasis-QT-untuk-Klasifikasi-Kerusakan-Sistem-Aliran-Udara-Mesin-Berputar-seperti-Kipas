@@ -1,4 +1,5 @@
-![tampilan desktop](https://github.com/user-attachments/assets/2617163f-3229-4082-8a8c-d7aaca6ba87b)
+
+![tampilan desktop sinyal suara](https://github.com/user-attachments/assets/22bd8c1d-da9b-4f94-9b6c-cffd37cf63dc)
 
 # Aplikasi Berbasis QT untuk Klasifikasi Kerusakan Sistem Aliran Udara Mesin Berputar seperti Kipas
 
